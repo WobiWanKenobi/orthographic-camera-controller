@@ -2,7 +2,7 @@
 
 ## 📸 About
 
-This is an orthographic camera controller for the unity game engine, that can be used either with orthographic or perspective cameras.
+This is an orthographic camera controller for the unity game engine, that is currently limited to ortographic cameras.
 
 ### 🔧 Configuration
 
