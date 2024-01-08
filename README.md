@@ -11,10 +11,18 @@ After that create a new camera as child of your camera rig game object and set i
 
 Here is a sample setup with screenshots from my game:
 
-1) camera rig game object
-<div align=”center”>
-  <img src=”https://github.com/WobiWanKenobi/orthographic-camera-controller/blob/main/images/cameraRig.png"/>
-</div>
+1) Camera rig game object
+
+![camRig](images/cameraRig.png)
+
+2) Camera game object:
+
+![camera](images/camera.png)
+
+3) Preview
+
+![preview](images/cameraControllerFullScreen.png)
+
 
 ### 🎮 Controls
 
@@ -24,3 +32,15 @@ Here is a sample setup with screenshots from my game:
   <li>Zoom: Mouse wheel</li>
   <li>Fast and slower speed: shift, left ctrl</li>
 </div>
+
+## 🧭 Patch Notes
+
+Feel free to open an issue, if you found a bug or have an idea for additional features!
+
+### Changelog
+<ul>
+  <li>V1.0</li>
+      <ul>
+        <li>Uploaded first version of CameraController</li>
+      </ul>
+</li>
