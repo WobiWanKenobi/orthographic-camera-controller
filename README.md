@@ -9,7 +9,12 @@ This is an orthographic camera controller for the unity game engine, that can be
 To set up the camera controller you need to create a new "empty game object" as camera rig, set it's x and z position to any value that suits your starting position and the y rotation to 45 degree.
 After that create a new camera as child of your camera rig game object and set it's y position value to any value that suits your scene. Important is to not forget setting the x rotation value of your camera to 45 degree. After that you can specify all the other parameters to your liking!
 
-Here is a sample setup with screenshots from my game
+Here is a sample setup with screenshots from my game:
+
+1) camera rig game object
+<div align=”center”>
+  <img src=”./images/cameraRig.png" width=”200" height=”200" alt=”rigImage”>
+</div>
 
 ### 🎮 Controls
 
