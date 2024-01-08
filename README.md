@@ -13,7 +13,7 @@ Here is a sample setup with screenshots from my game:
 
 1) camera rig game object
 <div align=”center”>
-  <img src=”./images/cameraRig.png" width=”200" height=”200" alt=”rigImage”>
+  <img src=”https://github.com/WobiWanKenobi/orthographic-camera-controller/blob/main/images/cameraRig.png"/>
 </div>
 
 ### 🎮 Controls
