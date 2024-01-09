@@ -44,3 +44,11 @@ Feel free to open an issue, if you found a bug or have an idea for additional fe
         <li>Uploaded first version of CameraController</li>
       </ul>
 </li>
+
+&nbsp;
+
+##
+
+<footer>
+        <p>&copy; 2024 Tobias Witte. All rights reserved.</p>
+</footer>
